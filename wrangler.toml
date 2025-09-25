@@ -8,6 +8,7 @@ command = "npm run build"
 
 [assets]
 directory = "static/"
+binding = "__STATIC_CONTENT__"
 
 # [env.production]
 # name = "acmcsuf-worker-prod"
