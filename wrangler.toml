@@ -1,5 +1,5 @@
 # Top-level configuration
-name = "acmcsuf-worker"
+name = "acmcsufcom"
 account_id = ""
 main = "./.cloudflare/worker.js"
 
