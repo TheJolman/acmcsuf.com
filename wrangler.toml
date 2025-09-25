@@ -1,0 +1,24 @@
+# Top-level configuration
+name = "acmcsuf-worker"
+account_id = ""
+main = "./.cloudflare/worker.js"
+
+[site]
+bucket = "./.cloudflare/public"
+
+[build]
+command = "npm run build"
+
+compatibility_date = "2025-01-01"
+
+# [env.production]
+# name = "acmcsuf-worker-prod"
+# route = { pattern = "acmcsuf.com/*", zone_name = "acmcsuf.com" }
+
+# [env.staging]
+# name = "my-worker-staging"
+# route = { pattern = "staging.example.org/*", zone_name = "example.org" }
+
+# kv_namespaces = [
+#   { binding = "<MY_NAMESPACE>", id = "<STAGING_KV_ID>" }
+# ]
