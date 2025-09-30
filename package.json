@@ -73,6 +73,7 @@
     "@js-temporal/polyfill": "^0.4.4",
     "cookie": "^1.0.2",
     "cropperjs": "^1.5.13",
+    "css-tree": "^3.1.0",
     "devalue": "^5.3.2",
     "googleapis": "^134.0.0",
     "html-to-text": "^9.0.5",
