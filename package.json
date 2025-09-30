@@ -79,6 +79,7 @@
     "qrcode": "^1.5.3",
     "rrule": "^2.7.2",
     "rss": "^1.2.2",
+    "set-cookie-parser": "^2.7.1",
     "svelte-confetti": "^2.3.2",
     "svelte-meta-tags": "^4.4.1"
   }
