@@ -1,0 +1,6 @@
+name = "acmcsuf-com"
+main = "./.svelte-kit/cloudflare/index.js"
+compatibility_date = "2025-10-02"
+
+[site]
+bucket = "./.svelte-kit/cloudflare"
