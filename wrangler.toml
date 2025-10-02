@@ -1,0 +1,7 @@
+name = "acmcsuf-com"
+main = "./.svelte-kit/cloudflare/index.js"
+compatibility_date = "2025-10-02"
+compatibility_flags = ["nodejs_compat"]
+
+[site]
+bucket = "./.svelte-kit/cloudflare"
